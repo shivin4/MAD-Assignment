@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+anim scale
+color colorOnPrimary
+color colorOnSecondary
+color colorPrimary
+color colorPrimaryVariant
+color colorSecondary
+color colorSecondaryVariant
+drawable background_gradient
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_pause
+drawable ic_play
+drawable toggle_button_background
+id btnPlayPause
+id lottieAnimationView
+id seekBarSpeed
+id spAnimationSelector
+id tvSelectAnimation
+id tvSpeedLabel
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style AppTheme
+style Base.Theme.Lottie
+style Theme.Lottie
+xml backup_rules
+xml data_extraction_rules

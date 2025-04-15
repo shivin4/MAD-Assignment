@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryVariant">#FF9800</color>
+    <color name="colorSecondary">#D81B60</color>
+    <color name="colorSecondaryVariant">#A00037</color>
+    <string name="app_name">lottie</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">#FF9800</item>
+        <item name="colorPrimaryVariant">#FF5722</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#D81B60</item>
+        <item name="colorSecondaryVariant">#A00037</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+    </style>
+    <style name="Base.Theme.Lottie" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Lottie" parent="Base.Theme.Lottie"/>
+</resources>

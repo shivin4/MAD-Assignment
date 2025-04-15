@@ -1,0 +1,35 @@
+com.example.lottie.app-transition-1.5.0-0 C:\Users\shivi\.gradle\caches\8.9\transforms\0274ba8834a7ebe4984180096a1e9d4f\transformed\transition-1.5.0\res
+com.example.lottie.app-lifecycle-viewmodel-savedstate-2.6.2-1 C:\Users\shivi\.gradle\caches\8.9\transforms\2000348be1ac4ccbd70cfb63efad8e3b\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.lottie.app-viewpager2-1.0.0-2 C:\Users\shivi\.gradle\caches\8.9\transforms\2516d28791f3449964fcff8cf18264d7\transformed\viewpager2-1.0.0\res
+com.example.lottie.app-lifecycle-process-2.6.2-3 C:\Users\shivi\.gradle\caches\8.9\transforms\2546be56a5c3cf622b6436be614bdd18\transformed\lifecycle-process-2.6.2\res
+com.example.lottie.app-emoji2-1.3.0-4 C:\Users\shivi\.gradle\caches\8.9\transforms\3df3b8155bcc6bfd34383b07bbd2aa7a\transformed\emoji2-1.3.0\res
+com.example.lottie.app-startup-runtime-1.1.1-5 C:\Users\shivi\.gradle\caches\8.9\transforms\51554859ee1763a4271911c2c87aaff9\transformed\startup-runtime-1.1.1\res
+com.example.lottie.app-constraintlayout-2.2.1-6 C:\Users\shivi\.gradle\caches\8.9\transforms\52b1a686fae4f72dc9c3386e3dc3b5bf\transformed\constraintlayout-2.2.1\res
+com.example.lottie.app-cardview-1.0.0-7 C:\Users\shivi\.gradle\caches\8.9\transforms\55e588456f754de55d1a50d62c3e312a\transformed\cardview-1.0.0\res
+com.example.lottie.app-annotation-experimental-1.4.0-8 C:\Users\shivi\.gradle\caches\8.9\transforms\59a7bce541c8ac5c7559db9bff07b8c0\transformed\annotation-experimental-1.4.0\res
+com.example.lottie.app-core-runtime-2.2.0-9 C:\Users\shivi\.gradle\caches\8.9\transforms\5c2320f95d1eaa174384ac0acf229b63\transformed\core-runtime-2.2.0\res
+com.example.lottie.app-lottie-6.6.4-10 C:\Users\shivi\.gradle\caches\8.9\transforms\610bdc28eec58d1044328adb75f5fbeb\transformed\lottie-6.6.4\res
+com.example.lottie.app-drawerlayout-1.1.1-11 C:\Users\shivi\.gradle\caches\8.9\transforms\726ae2f96675cc3e7fcb4c07a43199e4\transformed\drawerlayout-1.1.1\res
+com.example.lottie.app-appcompat-resources-1.7.0-12 C:\Users\shivi\.gradle\caches\8.9\transforms\72f0d8982e9d941809cf542a03293b49\transformed\appcompat-resources-1.7.0\res
+com.example.lottie.app-material-1.12.0-13 C:\Users\shivi\.gradle\caches\8.9\transforms\7934969663502b321c4d084919a109cc\transformed\material-1.12.0\res
+com.example.lottie.app-profileinstaller-1.4.0-14 C:\Users\shivi\.gradle\caches\8.9\transforms\7a2adc9d348df3d332ed72a93975f737\transformed\profileinstaller-1.4.0\res
+com.example.lottie.app-recyclerview-1.1.0-15 C:\Users\shivi\.gradle\caches\8.9\transforms\82b58c90a64883433565adcefdfd3d79\transformed\recyclerview-1.1.0\res
+com.example.lottie.app-appcompat-1.7.0-16 C:\Users\shivi\.gradle\caches\8.9\transforms\88aaaa2433ba2c2bd6838b4f64241dc8\transformed\appcompat-1.7.0\res
+com.example.lottie.app-lifecycle-livedata-core-2.6.2-17 C:\Users\shivi\.gradle\caches\8.9\transforms\963ac5bb5b6be5eda61de3867e072f8c\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.lottie.app-coordinatorlayout-1.1.0-18 C:\Users\shivi\.gradle\caches\8.9\transforms\a532af435613d35232bfeb381d6e6640\transformed\coordinatorlayout-1.1.0\res
+com.example.lottie.app-emoji2-views-helper-1.3.0-19 C:\Users\shivi\.gradle\caches\8.9\transforms\ab05c093fb66b3e021fd0c1887d90d92\transformed\emoji2-views-helper-1.3.0\res
+com.example.lottie.app-lifecycle-viewmodel-2.6.2-20 C:\Users\shivi\.gradle\caches\8.9\transforms\b06cdc41077a7ec530d728bc579fea37\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.lottie.app-savedstate-1.2.1-21 C:\Users\shivi\.gradle\caches\8.9\transforms\b33cd7afaf7474a387e72d4f7d1da12e\transformed\savedstate-1.2.1\res
+com.example.lottie.app-lifecycle-runtime-2.6.2-22 C:\Users\shivi\.gradle\caches\8.9\transforms\c407144fb34e2ecaa6eb67f4d7c69325\transformed\lifecycle-runtime-2.6.2\res
+com.example.lottie.app-fragment-1.5.4-23 C:\Users\shivi\.gradle\caches\8.9\transforms\c9397fbb99e3708ea6823c378c6c4873\transformed\fragment-1.5.4\res
+com.example.lottie.app-lifecycle-livedata-2.6.2-24 C:\Users\shivi\.gradle\caches\8.9\transforms\d429acc3adc47f74b3c759cf958b6292\transformed\lifecycle-livedata-2.6.2\res
+com.example.lottie.app-core-1.13.0-25 C:\Users\shivi\.gradle\caches\8.9\transforms\d8799a9cf25a4841f3e56c1eba4be97d\transformed\core-1.13.0\res
+com.example.lottie.app-core-ktx-1.13.0-26 C:\Users\shivi\.gradle\caches\8.9\transforms\e04f41f90ef8fed0fd3ac761a9ded950\transformed\core-ktx-1.13.0\res
+com.example.lottie.app-activity-1.8.0-27 C:\Users\shivi\.gradle\caches\8.9\transforms\e79940623e16349abf8aa5064f2ae611\transformed\activity-1.8.0\res
+com.example.lottie.app-pngs-28 C:\Users\shivi\Documents\MAD Assignment\Question3\app\build\generated\res\pngs\debug
+com.example.lottie.app-resValues-29 C:\Users\shivi\Documents\MAD Assignment\Question3\app\build\generated\res\resValues\debug
+com.example.lottie.app-packageDebugResources-30 C:\Users\shivi\Documents\MAD Assignment\Question3\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.lottie.app-packageDebugResources-31 C:\Users\shivi\Documents\MAD Assignment\Question3\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.lottie.app-merged_res-32 C:\Users\shivi\Documents\MAD Assignment\Question3\app\build\intermediates\merged_res\debug
+com.example.lottie.app-debug-33 C:\Users\shivi\Documents\MAD Assignment\Question3\app\src\debug\res
+com.example.lottie.app-main-34 C:\Users\shivi\Documents\MAD Assignment\Question3\app\src\main\res
